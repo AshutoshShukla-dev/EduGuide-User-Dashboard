@@ -1,6 +1,6 @@
 Overview
 
-The EduGuide User Dashboard is a responsive web application that enables students to manage their learning journey. It offers a clean, accessible interface to update profile details, track purchased courses, monitor progress, and view learning activities. The dashboard features a modern design with a sticky sidebar, top navigation, and a profile section (full name and email on the left, profile picture and courses on the right,Save Changes button below), purchased couurses shown dynmically using javascript when user click save changes button it shows rofile updated successfully and if there is any error then error message shown and it will disappear after a short time , activity tracking is also there in progress button.
+The EduGuide User Dashboard is a responsive web application that enables students to manage their learning journey. It offers a clean, accessible interface to update profile details, track purchased courses, monitor progress, and view learning activities. The dashboard features a modern design with a sticky sidebar, top navigation, and a profile section , purchased couurses shown dynamically using javascript when user click save changes button it shows Profile updated successfully and if there is any error then error message shown and it will disappear after a short time , activity tracking is also there in progress button.
 
 Features
 
